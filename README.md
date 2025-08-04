@@ -66,7 +66,7 @@ Passionate about full-stack development with MERN stack, and always eager to lea
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:harshiltanwar62@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:harshil9913435191@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/harshil107108"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- Optional: Add LinkedIn -->
 </p>
